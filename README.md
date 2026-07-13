@@ -31,31 +31,6 @@ An AI-powered student identification system that recognizes students from upload
 
 ---
 
-## 📂 Project Structure
-
-```
-FaceRecognitionSystem/
-│
-├── app.py
-├── face_detector.py
-├── embedding_extractor.py
-├── requirements.txt
-├── README.md
-│
-├── models/
-│   ├── face_recognition_facenet_model.pkl
-│   └── face_landmarker.task
-│
-├── metadata/
-│   └── students.csv
-│
-├── notebooks/
-│   └── fastapi.ipynb
-│
-└── images/
-```
-
----
 
 ## ⚙️ System Workflow
 
